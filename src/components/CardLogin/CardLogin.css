@@ -1,0 +1,43 @@
+.card-login{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aliceblue;
+    opacity: 80%;
+    height: 50%;
+    width: 20%;
+    border-radius: 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+.login-label{
+    text-align: center;
+}
+
+label{
+    padding-left: 5%;
+    text-align: left;
+}
+
+input{
+    width: 90%;
+    align-self: center;
+    height: 25px
+}
+
+.aria-input{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.forgot-password{
+    text-align: right;
+    margin-right: 10%;
+    text-decoration: none;
+}
+
+.forgot-password-text{
+    text-decoration: none;
+    color: purple;
+}
